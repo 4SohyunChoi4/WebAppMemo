@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298385592027",
+    "firebase_url": "https://memowebapp-9fd87-default-rtdb.firebaseio.com",
+    "project_id": "memowebapp-9fd87",
+    "storage_bucket": "memowebapp-9fd87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298385592027:android:53fce8847dc86b51cc06fe",
+        "android_client_info": {
+          "package_name": "com.choi.firenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298385592027-snns6gfg28rpv948m016mqj7n8f8r09l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choi.firenote",
+            "certificate_hash": "beac6635d1552b6aaa2c2af1c6dafe7b479f8be0"
+          }
+        },
+        {
+          "client_id": "298385592027-milnek6rrmvf537ch8nkhqo89u8nc1h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa0ld7pfWC8aXUiyZXl_O8WJatIiUoFhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298385592027-milnek6rrmvf537ch8nkhqo89u8nc1h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
