@@ -196,7 +196,7 @@ public class MainActivity extends AppCompatActivity {
         }
         Memo memo = new Memo();
         memo.setTxt(text);
-        memo.setCreateDate(new Date().getTime());
+        memo.setUpdateDate(new Date().getTime());
         mFirebaseDatabase
                 .getReference("memos/"+mFirebaseUser.getUid()+ "/" + selectedMemoKey)
                 .setValue(memo) //push를 넣으면 또 '추가'가 됨
